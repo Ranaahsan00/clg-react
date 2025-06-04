@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import IndexHero from "../Components/Index/IndexHero";
 import IndexAbout from "../Components/Index/IndexAbout";
 import IndexGetStarted from "../Components/Index/IndexGetStarted";
 import IndexTestimonials from "../Components/Index/IndexTestimonials";
-import Footer from "../components/Footer";
+import Footer from "../Components/Footer";
 // import $ from "jquery";
 
 const Index = () => {
