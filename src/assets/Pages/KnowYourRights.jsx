@@ -1,9 +1,9 @@
 import React from "react";
-import Header from "../components/Header";
-import Banner from "../components/Know-Your-Rights/Banner";
+import Header from "../Components/Header";
+import Banner from "../Components/Know-Your-Rights/Banner";
 import Content from "../Components/Know-Your-Rights/Content";
 
-import Footer from "../components/Footer";
+import Footer from "../Components/Footer";
 
 const KnowYourRights = () => {
   return (
